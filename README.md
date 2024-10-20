@@ -1,4 +1,4 @@
-# Hello, I'm Nezu! 👋
+# Hello, I'm Brandon! 👋
 
 I'm a passionate tech enthusiast with a diverse skill set in web development and programming. I thrive on challenges and love exploring the depths of coding and computer systems and the "Wow" factor of computers! Computers these days just do not seem to be as exciting as they used to, so I like to have my work call out to the classic times back when using a computer was EXCITING
 
